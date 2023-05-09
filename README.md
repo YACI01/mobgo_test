@@ -1,2 +1,2 @@
-# mobgo_test
+# mongo_test
 Training files about MongoDB
